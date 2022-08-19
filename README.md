@@ -7,7 +7,7 @@ I'm a full stack software developer who is passionate about making new technolog
 - Giving updates on <a href="https://www.linkedin.com/in/noah-hoffman-9975a7121/"> LinkedIn </a>
 - You can reach me at stacknoah99@gmail.com
 
-### Skills
+## Skills:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
