@@ -4,7 +4,7 @@ I'm a full stack software developer who is passionate about making new technolog
 
 ## Find me around the web 🌎: 
 [!Linkedin Badge] (https://twitter.com/stacknoah99)]
-[![linkedin](app-generated-url)](https://twitter.com/stacknoah99)
+[![linkedin]](https://twitter.com/stacknoah99)
 - Giving updates on <a href="https://www.linkedin.com/in/noah-hoffman-9975a7121/"> LinkedIn </a>
 - You can reach me at stacknoah99@gmail.com
 
