@@ -7,6 +7,7 @@ I'm a full stack software developer who is passionate about making new technolog
 - Giving updates on <a href="https://www.linkedin.com/in/noah-hoffman-9975a7121/"> LinkedIn </a>
 - You can reach me at stacknoah99@gmail.com
 - Personal <a href="https://docs.google.com/document/d/1dTToiAB06etzHDXYmY3J5W8ey1jeBocq87SIhTQ5L_k/edit?usp=sharing"> Resume </a>
+- Portfolio: Under Construction 🔨
 ## Skills:
 
 <p align="left">
