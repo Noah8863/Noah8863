@@ -8,9 +8,7 @@ I'm a full stack software developer who is passionate about making new technolog
 - Personal <a href="https://docs.google.com/document/d/1dTToiAB06etzHDXYmY3J5W8ey1jeBocq87SIhTQ5L_k/edit?usp=sharing"> Resume </a>
 - Portfolio: Under Construction 🔨
 
-![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noah8863&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah8863&layout=compact)
+![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noah8863&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah8863&layout=compact&theme=dracula)
 
 ## Skills:
 
